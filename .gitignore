@@ -22,6 +22,7 @@ jspm_modules
 
 # IDE Code ignoramuses.
 .idea/
+*.iml
 
 # Various Windows ignoramuses.
 Thumbs.db

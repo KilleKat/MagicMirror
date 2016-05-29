@@ -20,3 +20,7 @@
   text-align: right;
   vertical-align: top;
 }
+
+.calendar .location {
+  font-size: 80%;
+}
